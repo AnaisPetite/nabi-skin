@@ -1,6 +1,6 @@
-# [Nombre del emprendimiento] — Sitio web
+# [Nabi Skin] — Sitio web
 
-[Descripción del emprendimiento en una o dos líneas.]
+[Cosmética y skincare coreano para acompañar tu piel en cada ciclo.]
 Incluye landing, blog y prototipo de tienda online.
 
 > Proyecto de la **Evaluación Parcial 02 — Sitios Web y Landing Pages (DUOC)**.
