@@ -1,4 +1,4 @@
-# Spec de diseño — [Nombre del emprendimiento]
+# Spec de diseño — Nabi Skin 
 
 > Guía: [Spec de diseño](../evaluacion/guias/fase-2-specs/06-spec-de-diseno.md)
 

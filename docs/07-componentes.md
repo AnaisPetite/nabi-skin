@@ -1,4 +1,4 @@
-# Componentes — [Nombre del emprendimiento]
+# Componentes — Nabi Skin 
 
 > Guía: [Componentes](../evaluacion/guias/fase-2-specs/03-calco-de-componentes.md)
 

@@ -1,6 +1,4 @@
-# Proto-persona — [Nabi Skin]
-
-> Guía: [Proto-persona](../evaluacion/guias/fase-1-requerimientos/02-proto-persona.md)
+# Proto-persona — Nabi Skin
 
 ## Proto-persona principal
 

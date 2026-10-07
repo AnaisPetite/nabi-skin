@@ -1,4 +1,4 @@
-# Moodboard — [Nombre del emprendimiento]
+# Moodboard — Nabi Skin 
 
 > Guía: [Moodboard](../evaluacion/guias/fase-2-specs/02-moodboard.md)
 
