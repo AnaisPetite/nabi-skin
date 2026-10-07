@@ -1,6 +1,6 @@
-# [Nabi Skin] — Sitio web
+# Nabi Skin — Sitio web
 
-[Cosmética y skincare coreano para acompañar tu piel en cada ciclo.]
+Cosmética y skincare coreano para acompañar tu piel en cada ciclo.
 Incluye landing, blog y prototipo de tienda online.
 
 > Proyecto de la **Evaluación Parcial 02 — Sitios Web y Landing Pages (DUOC)**.

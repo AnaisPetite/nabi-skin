@@ -18,16 +18,16 @@ Redáctalas como "El usuario debe poder...".
 Prioridad: Imprescindible / Deseable / Futuro. -->
 
 | Proto-persona | Objetivo | Funcionalidad | Tipo | Prioridad |
-|Sofía|El usuario debe poder filtrar los productos según su tipo de piel (mixta, grasa, seca, sensible)|Resuelve su necesidad de encontrar rápidamente cosmética coreana sin abrumarse con catálogos confusos.|Base (e-commerce)|Imprescindible|
-|Sofía| El usuario debe poder realizar un test de interactivo de tres preguntas para descubrir qué productos exactos conforman su rutina ideal.| Apoya su motivación a recibir orientación honesta y sencilla.| Base (landing)  | Deseable |
-|Sofía |El usuario debe poder calcular el costo y tiempo estimado de envío ingresando su comuna antes de iniciar el proceso de pago.| Evita su principal frustración (abandonar el carrito por costos de envío sorpresivos o desconocidos) | Base (blog) |Deseable|
-|Sofía |El usuario debe poder iniciar una conversación rápida de chat en vivo para resolver dudas sobre ingredientes o texturas antes de comprar. | Satisface su necesidad de respaldo y atención cercana, disipando el miedo a comprar un producto que le irrite la piel. | Base (e-commerce) | Futura |
-| | | El usuario debe poder compartir un artículo en... | Base (blog) | |
-| | | El usuario debe poder buscar productos por... | Base (tienda) | |
-| | | El usuario debe poder filtrar productos por... | Base (tienda) | |
-| | | El usuario debe poder ver el detalle de un producto, elegir... y agregarlo al carrito | Base (tienda) | |
-| | | | Propia | |
-| | | | Propia | |
-| | | | Propia | |
-| | | | Propia | |
-| | | | Propia | |
+| Sofía | Aprender a armar su rutina y cuidar su piel | El usuario debe poder dejar su correo a cambio de una guía gratuita de K-Beauty para principiantes y un 10% de descuento.| Base (landing) | Imprescindible|
+| Sofía | Encontrar consejos sobre como mejorar la luminosidad y textura | El usuario debe poder navegar los artículos por categoría (rutina coreana, tipos de piel, barrera cutánea, ingredientes clave). | Base (blog) | Imprescindible |
+| Sofía | Resolver una duda sobre un producto | El usuario debe poder comentar un artículo o reseña. | Base (blog) | Deseable |
+| Sofía | Encontrar rápido lo que necesita su piel. | El usuario debe poder buscar productos por nombre o por ingredientes. | Base (tienda) | Imprescindible |
+| Sofía | Recomendar un producto o consejo a una amiga | El usuario debe poder compartir un artículo o producto por WhatsApp e Instagram. | Base (blog) | Deseable |
+| Sofía | Saber qué productos sirven para su tipo de piel. | El usuario debe poder filtrar productos por categoría y por tipo de piel. | Base (tienda) | Imprescindible |
+| Sofía | Comprar el producto que necesita. | El usuario debe poder ver el detalle de un producto, elegir su variante y agregarlo al carrito. | Base (tienda) | Imprescindible |
+| Sofía | Obtener descuentos o beneficios en sus próximas compras.| El usuario debe poder acumular puntos o beneficios exclusivos por sus compras, reseñas y participación en el test de rutinas para canjearlos en su siguiente pedido. | Base (tienda) | Futura |
+| Sofía | Entender para qué sirve un producto y cómo usarlo. | El usuario debe poder ver para qué sirve cada producto, sus ingredientes principales y el paso de la rutina coreana al que pertenece, en lenguaje simple. | Propia | Imprescindible |
+| Sofía |No llevarse sorpresas en el precio. | El usuario debe poder calcular el costo de despacho según su comuna antas de pagar. | Propia | Imprescindible |
+| Sofía | Saber por qué su piel se ve mal o irritada. | El usuario debe poder elegir una necesidad o síntoma (deshidratación, rojeces, brotes) y ver las causas y los productos recomendados. | Propia | Deseable |
+| Sofía |Tener todo lo necesario para iniciar su rutina. | El usuario debe poder comprar un kit coreano completo para un tipo de piel específico. | Propia | Deseable |
+| Sofía | Resolver una duda antes de comprar. | El usuario debe poder escribir por WhatsApp o chat web desde la ficha del producto para asesoría personalizada. | Propia | Deseable |
