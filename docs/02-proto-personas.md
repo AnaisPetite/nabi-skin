@@ -4,9 +4,9 @@
 
 <!-- Imagen: guárdala en docs/img/ y enlázala así: ![Avatar](img/nombre.png) -->
 
-**[Sofía], [24] años.** [Estudiante universitaria].
+**Sofía, 24 años.** Estudiante universitaria.
 
-> "[Quiero que mi piel se vea sana y luminosa de forma natural, sin tener que gastar una fortuna ni complicarme con mil pasos que no entiendo.]"
+> "Quiero que mi piel se vea sana y luminosa de forma natural, sin tener que gastar una fortuna ni complicarme con mil pasos que no entiendo."
 
 ### Comportamientos
 

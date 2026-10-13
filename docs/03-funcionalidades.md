@@ -1,4 +1,4 @@
-# Objetivos del usuario y funcionalidades — [Nabi Skin]
+# Objetivos del usuario y funcionalidades — Nabi Skin
 
 > Guía: [Objetivos del usuario y funcionalidades](../evaluacion/guias/fase-1-requerimientos/03-funcionalidades.md)
 
@@ -8,8 +8,8 @@
 Revisa sus necesidades y frustraciones: ahí suelen estar los objetivos. -->
 
 1. Saber qué productos utilizar para su tipo de piel
-2. 
-3.
+2. Tener una piel luminosa
+3. Comprar productos de calidad a buen precio
 
 ## Funcionalidades
 
