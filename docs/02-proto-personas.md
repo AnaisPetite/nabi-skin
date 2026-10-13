@@ -2,7 +2,7 @@
 
 ## Proto-persona principal
 
-<!-- Imagen: guárdala en docs/img/ y enlázala así: ![Avatar](img/nombre.png) -->
+[Sofía](Avatar_Sofía.jpeg)
 
 **Sofía, 24 años.** Estudiante universitaria.
 
