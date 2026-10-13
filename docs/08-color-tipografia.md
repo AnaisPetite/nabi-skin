@@ -5,7 +5,6 @@
 ## Paleta
 
 | Rol | Color | HEX | Uso |
-|---|---|---|---|
 | Principal | Verde salvia botánico | `#2D5A43` | Botones primarios, enlaces destacados, acentos de marca y bordes activos |
 | Secundario | Durazno piel suave | `#F4EAE2` | Fondos de tarjetas suaves, badges de tipo de piel/rutina y contenedores secundarios |
 | Acento | Terracota luminoso | `#B8533B` | Badges de ofertas, promociones especiales, llamados de atención prioritarios |
