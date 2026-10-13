@@ -2,7 +2,7 @@
 
 > Guía: [Moodboard](../evaluacion/guias/fase-2-specs/02-moodboard.md)
 
-**Tablero en Whimsical:** https://whimsical.com/ana-s-cruz/3TUFs4HkuQbDqQg5absRRr
+**Tablero en Whimsical:** https://whimsical.com/ana-s-cruz/moodboard-3TUFs4HkuQbDqQg5absRRr
 
 <!-- Captura: guárdala en docs/img/ y enlázala así: ![Moodboard](img/Moodboard.png) -->
 

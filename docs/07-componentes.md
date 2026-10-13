@@ -2,7 +2,7 @@
 
 > Guía: [Componentes](../evaluacion/guias/fase-2-specs/03-calco-de-componentes.md)
 
-**Tablero en Whimsical:** [pega aquí el link]
+**Tablero en Whimsical:** https://whimsical.com/ana-s-cruz/nabi-skin-componentes-YNg2xWRcP5rhtxdeQTqug2
 
 ![Componentes calcados](img/Componentes.png)
 
