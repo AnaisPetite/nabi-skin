@@ -2,7 +2,7 @@
 
 ## Proto-persona principal
 
-[Sofía](Avatar_Sofía.jpeg)
+![Sofía](img/Sofía.png)
 
 **Sofía, 24 años.** Estudiante universitaria.
 

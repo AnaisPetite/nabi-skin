@@ -5,7 +5,7 @@
 <!-- Incluye landing, blog, tienda y las páginas obligatorias:
 contacto, preguntas frecuentes, términos, privacidad y 404. -->
 
-```text
+
 Inicio (landing)
 ├── Tienda
 │   ├── Categoría: Limpiadores
