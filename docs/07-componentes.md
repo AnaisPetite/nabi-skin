@@ -2,9 +2,9 @@
 
 > Guía: [Componentes](../evaluacion/guias/fase-2-specs/03-calco-de-componentes.md)
 
-**Tablero en Whimsical:** https://whimsical.com/ana-s-cruz/nabi-skin-componentes-YNg2xWRcP5rhtxdeQTqug2
+**Tablero en Whimsical:** https://whimsical.com/ana-s-cruz/nabi-skin-componentes-3V4D2Jdn5s9eX3jpfJy7mV
 
-![Componentes calcados](img/Componentes.png)
+![Componentes calcados](img/Componentes Nabi Skin.png)
 
 <!-- Mínimo 6 componentes que cubran landing, blog y tienda. -->
 
